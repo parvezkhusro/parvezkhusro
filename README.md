@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my portfolio website.
+- 🔭 I’m currently working on my portfolio website during my free time.
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on FOSS projects.
 - 🤔 I’m looking for help with UI/UX
