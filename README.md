@@ -1,17 +1,17 @@
-### Hi there 👋
-![](https://visitor-badge.glitch.me/badge?page_id=parvezkhusro.parvezkhusro)
+### Hi there, I'm [Parvez!](http://parvezkhusro.com) 👋
 
-<!--
-**parvezkhusro/parvezkhusro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://user-images.githubusercontent.com/11903975/114063242-06c55e80-98b6-11eb-82c9-61e8534b9b7d.gif)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my portfolio website.
+- 🌱 I’m currently learning ReactJS
+- 👯 I’m looking to collaborate on FOSS projects.
+- 🤔 I’m looking for help with UI/UX
+- 💬 Ask me about anything you wish ..
+- 📫 How to reach me: [@parvezkhusro](https://twitter.com/parvezkhusro)
+- 😄 Pronouns: he / him
+
+![](https://visitor-badge.glitch.me/badge?page_id=parvezkhusro.parvezkhusro)
+
+
